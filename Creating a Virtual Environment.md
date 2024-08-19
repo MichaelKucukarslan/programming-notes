@@ -12,7 +12,7 @@ code -r <file name> ; opens the file in the same VSCode window
 ```
   
 
-Note: <ctrl + `> toggles the terminal
+Note: <ctrl + ` > toggles the terminal
 
   
 
@@ -57,8 +57,6 @@ Trying to run the virtual environment did not go smoothly. I was having problems
 
 pip freeze ; should not have anything installed now
 
-  
-  
 
 Running into a problem with pip :
 
