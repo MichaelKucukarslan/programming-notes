@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee897311c0f8e5e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating a git repository on Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5101c842b03d9a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_cmder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,14 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88eacc7485b0c96e",
+  "active": "5101c842b03d9a9d",
   "lastOpenFiles": [
+    "Starting a virtual environment.md",
+    "Running a .bat script in Windows 10.md",
+    "Creating a git repository on Windows.md",
+    "Install PIP on Windows.md",
+    "Creating a Virtual Environment.md",
+    "00_cmder.md",
     "cmder.bat",
     "New Text Document.txt",
-    "Install PIP on Windows.md",
-    "00_cmder.md",
-    "Running a .bat script in Windows 10.md",
-    "Creating a Virtual Environment.md",
     "Welcome.md"
   ]
 }
